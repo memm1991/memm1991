@@ -26,8 +26,8 @@ As far as my technical knowledge goes, I strive to be a full-stack web developer
 
 - How to reach me:
 
-:email:joanzorovichg@gmail.com
+:email:migueledmejail@gmail.com
 
-:ballot_box_with_check:https://www.linkedin.com/in/joan-catherine-zorovich
+:ballot_box_with_check:https://www.linkedin.com/in/miguel-edmundo-mejail-8076881bb/?locale=en_US
 
-:iphone: +57 302 277 83 77
+:iphone: +54 3815730032
