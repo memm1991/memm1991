@@ -1,16 +1,34 @@
-### Hi there 👋
+ (https://gist.githubusercontent.com/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif)
 
-<!--
-**memm1991/memm1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi I am Miguel and ...
 
-Here are some ideas to get you started:
+I´m an electronic engineer - fullstack developer. I love :heart: science and technology because through them I know how the world works and I can improve people's lives :family: through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some technologies I enjoy working with include ReactJS, JavaScript, React.js - Redux, PostgreSQL, Sequelize and Node.js.
+
+- Knowledge in:
+
+![image](https://user-images.githubusercontent.com/75386133/118582414-e7450f80-b758-11eb-9b08-5509f392ca82.png)
+![image](https://user-images.githubusercontent.com/75386133/118582992-ecef2500-b759-11eb-8335-f05ad2e84bd0.png)
+![image](https://user-images.githubusercontent.com/75386133/118583020-f6788d00-b759-11eb-9abe-6da84119892e.png)
+![image](https://user-images.githubusercontent.com/75386133/118583034-fb3d4100-b759-11eb-95d5-1893b807eb96.png)
+![image](https://user-images.githubusercontent.com/75386133/118583047-009a8b80-b75a-11eb-84b0-7c87acfd8eb2.png)
+![image](https://user-images.githubusercontent.com/75386133/118583062-07c19980-b75a-11eb-94e7-29972a814723.png)
+![image](https://user-images.githubusercontent.com/75386133/118583077-0f813e00-b75a-11eb-829e-f890a7937198.png)
+
+- Languages:
+
+:small_orange_diamond:Spanish(Native)
+
+:small_orange_diamond:English(c1)
+
+
+
+
+- How to reach me:
+
+:email:joanzorovichg@gmail.com
+
+:ballot_box_with_check:https://www.linkedin.com/in/joan-catherine-zorovich
+
+:iphone: +57 302 277 83 77
